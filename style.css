@@ -1,0 +1,107 @@
+.card{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    
+    
+    }
+    .z {
+        overflow: hidden;
+        background-color:brown;
+        color:black;
+        text-shadow:1px;
+        
+        text-transform: uppercase;
+    
+        
+    }
+    .content{
+        position: absolute;
+        z-index: 1;
+        background-color: aqua;
+    } 
+    li,a{
+        padding-right: 10px;
+        text-decoration:none;
+        color: white;
+        
+      
+       
+    }
+    #a{
+        font-size: 25px;
+        color:red;
+        background-color: black;
+    
+    }
+    #b{
+        font-size: 20px; 
+        color:blue;
+    }
+    #c{
+        font-size: 25px;
+        color:green;
+    }
+    .aside{
+        align-items: center;
+    }
+    #searchinput{
+        height: 10%;
+        margin-top: 10%;
+        margin-left:8px ;
+    }
+    #container {
+        position: absolute;
+        z-index: 2;
+        top: 100px;
+        left: 100px;
+        background-color: rgb(249, 249, 250);
+    }
+    header{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: pink;
+}
+.logo{
+    text-align: center;
+    padding: 20px;
+}
+/*.menu_list{
+    list-style-type: none;
+    padding: 15px;
+    text-align: center;
+}*/
+.list_item{
+    display: inline;
+    padding: 15px;
+    margin: 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+.signup{
+    text-align: center;
+    color: black;
+    text-transform: capitalize;
+}
+label{
+    padding-left: 10px;
+    font-size: 20px;
+    color: black;
+    font-family: serif;
+}
+.input{
+    margin: 10px 50px; 
+}
+.form-control{
+
+    box-shadow: 2px blue;
+}
+span{
+    color: red;
+}
+.btn{
+    margin-left: 10%;
+} 
