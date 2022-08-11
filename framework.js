@@ -4,9 +4,9 @@ app.controller('myCtrl', function ($scope) {
     {
       section: 'womens',
       id: 1,
-      name: 'Product : Rose Gold Watch',
+      name: 'Product : Titan Watch',
       desc: 'Description : beautiful watch ',
-      Image: 'images/rose gold.jpg',
+      Image: 'images/titan.jpg',
       price: 'Price : 30,000',
     },
     {
@@ -29,7 +29,7 @@ app.controller('myCtrl', function ($scope) {
 
     {
       section: 'bikes',
-      id: 7,
+      id: 4,
       name: 'Product : Royal Enfield',
       desc: 'Description : Mileage 35km/l',
       Image: 'images/royal.jpg',
@@ -37,7 +37,7 @@ app.controller('myCtrl', function ($scope) {
     },
     {
       section: 'bikes',
-      id: 8,
+      id: 5,
       name: 'Product : Duke',
       desc: 'Description : Mileage 30km/l ',
       Image: 'images/duke.jpg',
@@ -45,7 +45,7 @@ app.controller('myCtrl', function ($scope) {
     },
     {
       section: 'bikes',
-      id: 9,
+      id: 6,
       name: 'Product : Pulsar ',
       desc: ' Description : Mileage 40km/l',
       Image: 'images/pulsar.jpg',
@@ -54,7 +54,7 @@ app.controller('myCtrl', function ($scope) {
     
     {
       section: 'boys',
-      id: 13,
+      id: 7,
       name: 'Product : Titan Watch',
       desc: ' Description : stylish Watch',
       Image: 'images/watch1.jpg',
@@ -62,7 +62,7 @@ app.controller('myCtrl', function ($scope) {
     },
     {
       section: 'boys',
-      id: 14,
+      id: 8,
       name: 'Product : Quartz Watch',
       desc: ' Description : Good looking',
       Image: 'images/watch2.jpg',
@@ -70,7 +70,7 @@ app.controller('myCtrl', function ($scope) {
     },
     {
       section: 'boys',
-      id: 15,
+      id: 9,
       name: 'Product : Fosil Watch',
       desc: ' Description : good performance',
       Image: 'images/watch3.jpg',
