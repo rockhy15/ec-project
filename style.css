@@ -1,7 +1,7 @@
 .card {
     margin: 20px;
     padding: 20px;
-    border: 5px solid  lightblue;
+    border: 5px solid lightblue;
 
 
 }
@@ -20,10 +20,11 @@
 .content {
     position: absolute;
     z-index: 1;
-    
+
 }
 
-li,a {
+li,
+a {
     padding-right: 30px;
     text-decoration: none;
     color: white;
@@ -41,6 +42,7 @@ li,a {
 
 
 }
+
 #d {
     font-size: 22px;
     color: black;
@@ -64,7 +66,7 @@ li,a {
     margin-top: 5%;
     margin-left: 0px;
     font-size: 14px;
-    
+
 }
 
 #container {
@@ -87,11 +89,6 @@ header {
     padding: 20px;
 }
 
-/*.menu_list{
-    list-style-type: none;
-    padding: 15px;
-    text-align: center;
-}*/
 .list_item {
     display: inline;
     padding: 15px;
@@ -121,4 +118,8 @@ span {
 
 .btn {
     margin-left: 10%;
+}
+
+.m {
+    color: red;
 }
