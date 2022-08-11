@@ -79,7 +79,7 @@ app.controller('myCtrl', function ($scope) {
   
   ]
   $scope.foundList = [];
-  $scope.message = ''
+  $scope.message = '';
   $scope.isVisible = false;
   $scope.show = function (item) {
     $scope.isVisible = true;
